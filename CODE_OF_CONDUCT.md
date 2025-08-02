@@ -1,0 +1,1 @@
+All contributors must adhere to the Contributor Covenant.
